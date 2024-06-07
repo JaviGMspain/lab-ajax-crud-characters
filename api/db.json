@@ -1,0 +1,39 @@
+{
+  "characters": [
+    {
+      "id": "1",
+      "name": "Han Solo",
+      "occupation": "Smuggler",
+      "weapon": "Blaster Pistol",
+      "cartoon": true
+    },
+    {
+      "name": "Kylo Ren",
+      "occupation": "Jedi Knight",
+      "weapon": "Lightsaber",
+      "cartoon": false,
+      "id": "2"
+    },
+    {
+      "id": "0518",
+      "name": "Puma",
+      "occupation": "cat",
+      "weapon": "nails",
+      "cartoon": false
+    },
+    {
+      "id": "2bd7",
+      "name": "Tiger",
+      "occupation": "dog",
+      "weapon": "super bite",
+      "cartoon": false
+    },
+    {
+      "id": "55e2",
+      "name": "Delfi",
+      "occupation": "dolphin",
+      "weapon": "strong tail",
+      "cartoon": true
+    }
+  ]
+}
